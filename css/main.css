@@ -1,0 +1,113 @@
+.headerbg{
+	background-color:black;
+	color:white;
+	font-size:10px
+}
+.headerpadding{
+	padding:10px;
+}
+
+.row{
+	padding:0px;
+	margin:0px;
+}
+.subhead{
+	font-size:10px;
+	
+	color:gray;
+	margin-top:-10px;
+}
+
+.hedertemp.material-icons{
+float: left;
+font-size:35px;
+color:orange;
+padding: 10px;
+}
+.servicestemp.material-icons{
+	float:left;
+	font-size:15px;
+	color:black;
+	background-color:orange;
+	border-radius: 1px;
+	padding: 8px;
+}
+.headerpadding.p{
+	margin:0px;
+}
+.serviceheader{
+font-size:14px;
+padding-left:10px;
+display: inline-block;
+padding-top: 5px;
+}
+h4{
+	float: left;
+}
+
+.headerModel{
+	margin:30px 0px;
+}
+.navbar{
+position:absolute;
+margin-top:0px;
+}
+nav{
+	height:20px;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+	background-color: #222222;
+	border-bottom: 2px solid orange;
+
+}
+.navbar-nav>li>a{
+	font-size:12px;
+	padding-bottom: 0px;
+}
+.quote{
+	background-color: orange;
+	border-radius: 30px 0px 0px 30px;
+	color:white !important;
+padding: 6px;
+}
+.carousel-caption{
+position: absolute;
+top:50px;
+left:50px;
+width:320px;
+margin-left:100px;
+}
+p{
+	text-align: justify;
+}
+.serviceblock{
+	padding:10px;
+}
+.serviceborder{
+	border:1px solid gray;
+	width:70px;
+	text-align:center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.industry{
+	color:yellow;
+}
+
+.Learn{
+	border-radius:30px;
+	background-color: yellow;
+	margin:10px;
+}
+.solution{
+border-radius:30px;
+margin:10px;
+}
+
+.headermargin{
+margin:20px 0px;
+}
+.form-control{
+height:15px;
+}
